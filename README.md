@@ -8,7 +8,7 @@ Android Paging
 The Paging library helps you load and display pages of data or small chunks of data at a time from a larger dataset from local storage or over network. Loading partial data on demand reduces usage of network bandwidth and system resources.
 
  It integrates cleanly with other Jetpack components, and provide first-class Kotlin support.
-###3importance of paging 3
+
 #####Benefits of using the Paging library
 The Paging library includes the following features:
 - Provides in-memory caching of the paged data that assures the systematic use of device resources.
