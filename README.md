@@ -1,7 +1,7 @@
 # Android-pagingadapter3-using-retrofit-With-kotlin
 
 # PAGING ADAPTER 3
-##android app with kotlin - feel freeto reuse
+## android app with kotlin - feel freeto reuse
 
 
 Android Paging 
@@ -9,7 +9,7 @@ The Paging library helps you load and display pages of data or small chunks of d
 
  It integrates cleanly with other Jetpack components, and provide first-class Kotlin support.
 
-#####Benefits of using the Paging library
+##### Benefits of using the Paging library
 The Paging library includes the following features:
 - Provides in-memory caching of the paged data that assures the systematic use of device resources.
 - Prevents duplication of the API request, ensuring that your app uses network bandwidth and system resources efficiently.
