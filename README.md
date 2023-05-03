@@ -1,7 +1,7 @@
 # Android-pagingadapter3-using-retrofit-With-kotlin
 
 # PAGING ADAPTER 3
-## android app with kotlin - feel freeto reuse
+## android app with kotlin - feel free to reuse
 
 
 Android Paging 
